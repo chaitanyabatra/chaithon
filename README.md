@@ -4,6 +4,7 @@ A new language having some components similar to Assembly interpreted in python,
 to be able to run chaithon as one of my sample programs or create your own with ```.cy``` extension using simply cloning this repository using 
 
 ``` git clone https://github.com/chaitanyabatra/chaithon.git```
+
 and going to the directory chaithon in your teminal and writing the following text
 
 ``` python3 chainterpreter.py [yourprogramname].cy```
