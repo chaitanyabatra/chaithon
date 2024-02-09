@@ -73,7 +73,7 @@ To use the custom language interpreter, follow these steps:
 
 Example:
 ```
-python interpreter.py program.prog
+python interpreter.py program.cy
 ```
 
 ## Contact
